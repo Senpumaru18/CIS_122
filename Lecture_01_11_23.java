@@ -1,4 +1,4 @@
-public class HelloPrinter
+public class Lecture_01_11_23 // Class day 1/11/23
 {
     public static void main(String[] args)
     {
